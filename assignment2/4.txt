@@ -1,0 +1,14 @@
+-Precedence level varies from 1 to 19. The general rule is that an operator that has a lower precedence level is given higher priority and is said to have higher precedence than the one having a higher precedence level. You can interpret precedence level as rank in priority level of each operator.
+Division         3 -- Left to Right
+Multiplication   3 -- Left to Right 
+Modulus          3 -- Left to Right
+Addition         4 -- Left to Right
+Subtraction      4 -- Left to Right
+Assignment      14 -- Right to left
+Exponentiation  14 -- Right to left
+
+-Associativity
+Associativity defines the direction to be followed when executing the operations in a statement.
+
+Left to Right Associativity.
+Right to Left Associativity.

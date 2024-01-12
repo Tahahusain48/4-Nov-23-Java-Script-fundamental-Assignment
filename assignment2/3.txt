@@ -1,0 +1,15 @@
+-Unary Operators:
+let x = 5;
+let y = -x;  // Unary negation, y is now -5
+Unary plus + (converts an operand to a number)
+Unary negation - (negates the operand)
+
+-Binary Operators:
+let a = 5;
+let b = 2;
+let sum = a + b;  // Binary addition, sum is now 7
+
+
+-Ternary Operator:
+let age = 20;
+let status = (age >= 18) ? 'Adult' : 'Minor';

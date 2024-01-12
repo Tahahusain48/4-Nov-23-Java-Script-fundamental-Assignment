@@ -1,0 +1,53 @@
+-Arithmetic Operators:
+let a = 5;
+let b = 2;
+
+let addition = a + b;    // 7
+let subtraction = a - b; // 3
+let multiplication = a * b; // 10
+let division = a / b;    // 2.5
+let modulus = a % b;      // 1
+
+-Assignment Operators:
+let x = 10;
+x += 5;  // Equivalent to x = x + 5;   // x is now 15
+
+-Comparison Operators:
+let num1 = 5;
+let num2 = '5';
+
+console.log(num1 == num2);   // true (loose equality)
+console.log(num1 === num2);  // false (strict equality)
+console.log(num1 > num2);    // false
+
+-Logical Operators:
+let isTrue = true;
+let isFalse = false;
+
+console.log(isTrue && isFalse);  // false (AND)
+console.log(isTrue || isFalse);  // true (OR)
+console.log(!isTrue);            // false (NOT)
+
+-Unary Operators:
+let num = 5;
+console.log(-num);   // Unary negation
+console.log(++num);  // Increment by 1
+console.log(--num);  // Decrement by 1
+
+-Conditional (Ternary) Operator:
+let age = 20;
+let status = (age >= 18) ? 'Adult' : 'Minor';
+
+
+-Bitwise Operators:
+let a = 5; // binary: 0101
+let b = 3; // binary: 0011
+
+console.log(a & b); // Bitwise AND: 0001 (1 in decimal)
+console.log(a | b); // Bitwise OR: 0111 (7 in decimal)
+
+
+-String Concatenation Operator:
+let str1 = 'Hello';
+let str2 = ' World';
+let greeting = str1 + str2;  // 'Hello World'
