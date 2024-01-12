@@ -1,0 +1,23 @@
+
+Comments in JavaScript are essential for documenting code, providing explanations, and making the code more understandable for developers. They serve as non-executable text that is ignored by the JavaScript interpreter.
+// This is a single-line comment
+let firstName = "John";  // Variable storing the first name
+let lastName = "Doe";    // Variable storing the last name
+
+/*
+  This is a multi-line comment
+  It can span multiple lines
+  Used for longer explanations or comments
+*/
+
+let num1 = 5;
+let num2 = 10;
+
+/*
+  Calculate the sum of num1 and num2
+  and store it in the result variable
+*/
+let result = num1 + num2;
+
+// Display the result in the console
+console.log("Sum:", result);

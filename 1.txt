@@ -1,0 +1,11 @@
+JavaScript is a versatile, high-level, and interpreted programming language primarily known for its use in web development.
+
+-Role in Web Development:
+-DOM Manipulation
+-Event Handling
+-AJAX (Asynchronous JavaScript and XML)
+-Client-Side Validation
+-Frameworks and Libraries
+-Single Page Applications (SPAs)
+-Web Animations
+-Cross-Platform Development

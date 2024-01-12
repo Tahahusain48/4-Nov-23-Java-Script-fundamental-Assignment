@@ -1,0 +1,17 @@
+String:Strings represent sequences of characters and are used for storing and manipulating text.
+let greeting = "Hello, World!";
+
+Number:Numbers represent numeric values and can be integers or floating-point numbers.
+let age = 25;
+let pi = 3.14;
+
+Boolean:Booleans represent logical values, either true or false.
+let isStudent = true;
+let hasLicense = false;
+
+
+Null:Null represents the intentional absence of any object value or no value at all.
+let myValue = null;
+
+Undefined:Undefined represents a variable that has been declared but has not been assigned a value.
+let undefinedVariable;

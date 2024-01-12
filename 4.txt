@@ -1,0 +1,2 @@
+In JavaScript, declaring variables is a fundamental concept that involves allocating memory to store data values. Variables act as containers to hold information that can be manipulated or referenced within a program. The let keyword is commonly used for variable declaration in modern JavaScript.
+let variableName;

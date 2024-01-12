@@ -1,0 +1,10 @@
+javaScript:>
+JavaScript is a high-level scripting language introduced by Netscape to be run on the client-side of the web browser.
+JavaScript is an advanced programming language that makes web pages more interactive and dynamic.
+It manipulates content to create dynamic web pages.
+
+HTML:>
+HTML is the most basic building block of the Web. It defines the meaning and structure of web content.
+HTML is a standard markup language that provides the primary structure of a website.
+HTML pages are static which means the content cannot be changed.
+
